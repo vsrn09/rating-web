@@ -16,7 +16,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Red Hat OpenShift workshop
+        Red Hat OpenShift workshop
       </div>
       <div class="col-lg-6">
       </div>
